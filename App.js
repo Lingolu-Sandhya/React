@@ -1,3 +1,8 @@
+//I,port react and react-dom from node_modules
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+
 //Printing Hello World through react
 
 // Here reactHeading is react element which will be nothing but JavaScript Object.
